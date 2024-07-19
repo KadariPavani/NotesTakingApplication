@@ -27,6 +27,22 @@ Frontend (React):
 
 Technologies used
 
-[X] HTML
-[X] CSS
+##### - FRONTEND
+  
+  1. - [x] HTML   
+  2. - [x] CSS
+  3. - [X] JS
+##### - BACKEND
+  1. - [x] FastAPI
+##### - DATABASE
+  1. - [x] MongoDB
+
+
+###### github profile [ClickHere](https://github.com/KadariPavani)
+###### youtube link [projectVideo](https://youtu.be/TF5FDbaJysk)
+
+
+
+
+
 
